@@ -1,2 +1,3 @@
-# Project_demo
-This is my git repository
+# Project_Demo
+This is my Git repository
+Author- Shristy Chhetri
